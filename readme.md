@@ -1,5 +1,5 @@
 # Bookings
-bookings is a reservation system for a Bed & Breakfast. Visitors to web application will be able to search for accommodations by date and make an online reservation, and the site owner will be able to manage reservations from a secure back end.
+Bookings is a reservation system for a Bed & Breakfast. Visitors to this web application will be able to search for accommodations by date and make an online reservation, and the site owner will be able to manage reservations from a secure back end.
 
 ## Developemnt
 - Built in Go
